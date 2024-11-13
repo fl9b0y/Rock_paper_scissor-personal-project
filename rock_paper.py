@@ -19,6 +19,6 @@ while (user<5) and (robot<5) :
         print("Please select a valid option ",f )
         
 if user> robot:
-    print("YOU WINN")
+    print("YOU WIN")
 else:
     print("YOU LOSE :(")
